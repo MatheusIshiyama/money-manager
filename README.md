@@ -1,1 +1,1 @@
-# money-manager
+# money manager
